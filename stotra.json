@@ -1,0 +1,52 @@
+[
+      {
+         "ID": "0",
+         "Type": "Stotra",
+         "Icon": "http://www.medhash.net/icons/ramaraksha_sanskrit.png"
+         "Name": "Ram Raksha",
+         "Url": "http://www.medhash.net/audio/ramaraksha_sanskrit.mp3"
+      },
+      
+      {
+         "ID": "1",
+         "Type": "Stotra",
+         "Icon": "http://www.medhash.net/icons/bhimaroopi.png"
+         "Name": "Bhimarupi",
+         "Url": "http://www.medhash.net/audio/bhimaroopi.mp3"
+      },
+      
+      {
+         "ID": "2",
+         "Type": "Aarti",
+         "Icon": "http://www.medhash.net/icons/jaiJai_Aarti.png"
+         "Name": "Jai Jai Aarti",
+         "Url": "http://www.medhash.net/audio/jaiJai_Aarti.mp3"
+      },
+      
+      {
+         "ID": "3",
+         "Type": "Stotra",
+         "Icon": "http://www.medhash.net/icons/chaitanya-stotra.png"
+         "Name": "Chaitanya Stotra",
+         "Url": "http://www.medhash.net/audio/chaitanya-stotra.mp3"
+      },
+      
+      {
+         "ID": "4",
+         "Type": "Stotra",
+         "Icon": "http://www.medhash.net/icons/Haachi_Subodh_Guruncha.png"
+         "Name": "Haachi Subodh Guruncha",
+         "Url": "http://www.medhash.net/audio/Haachi_Subodh_Guruncha.mp3"
+      },
+      
+      {
+         "ID": "5",
+         "Type": "Bhajan",
+         "Icon": "http://www.medhash.net/icons/ramstuti.png"
+         "Name": "Ram Stuti",
+         "Url": "http://www.medhash.net/audio/ramstuti.mp3"
+      },
+      
+      
+      ]
+      

@@ -45,6 +45,14 @@
          "Icon": "http://www.medhash.net/icons/ramstuti.png",
          "Name": "Ram Stuti",
          "Url": "http://www.medhash.net/audio/ramstuti.mp3"
+      },
+      
+      {
+         "ID": "6",
+         "Type": "Stotra",
+         "Icon": "http://www.medhash.net/icons/ramstuti.png",
+         "Name": "Ram Naam(1-Hour)",
+         "Url": "http://www.medhash.net/audio/onehr.mp3"
       }
       
       

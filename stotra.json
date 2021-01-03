@@ -22,9 +22,16 @@
          "Name": "Jai Jai Aarti",
          "Url": "http://www.medhash.net/audio/jaiJai_Aarti.mp3"
       },
-      
       {
          "ID": "3",
+         "Type": "Aarti",
+         "Icon": "http://www.medhash.net/icons/Panchapadi.mp3.png",
+         "Name": "PanchaPadi",
+         "Url": "http://www.medhash.net/audio/Panchapadi.mp3"
+      },
+      
+      {
+         "ID": "4",
          "Type": "Stotra",
          "Icon": "http://www.medhash.net/icons/chaitanya-stotra.png",
          "Name": "Chaitanya Stotra",
@@ -32,7 +39,7 @@
       },
       
       {
-         "ID": "4",
+         "ID": "5",
          "Type": "Stotra",
          "Icon": "http://www.medhash.net/icons/Haachi_Subodh_Guruncha.png",
          "Name": "Haachi Subodh Guruncha",
@@ -40,7 +47,7 @@
       },
       
       {
-         "ID": "5",
+         "ID": "6",
          "Type": "Bhajan",
          "Icon": "http://www.medhash.net/icons/ramstuti.png",
          "Name": "Ram Stuti",
@@ -48,7 +55,7 @@
       },
       
       {
-         "ID": "6",
+         "ID": "7",
          "Type": "Stotra",
          "Icon": "http://www.medhash.net/icons/ramstuti.png",
          "Name": "Ram Naam(1-Hour)",
